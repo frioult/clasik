@@ -1,0 +1,124 @@
+<html>
+    <head>
+        <title>Blank Page for d3js Experimentation</title>
+        <script src="http://127.0.0.1/rioultf/svn/m2dnr2i-systeme/code/d3/cours/node_modules/d3/d3.min.js"></script>
+        <script src="socket.io/socket.io.js"></script>
+        <link type="text/css" href="http://127.0.0.1/rioultf/svn/m2dnr2i-systeme/code/d3/cours/style.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <header>
+            <menu>
+                <div id="menu"></div>
+            </menu>
+        </header>
+        <section id="content">
+            <div id="d3-content"></div>
+            <div id="nconf"></div>
+        </section>
+        <footer>
+            cf. <a href="http://www.ultrasaurus.com/sarahblog/2012/03/d3-js-experiments-in-the-console/">
+                d3.js experiments in the console</a>
+        </footer>
+
+        <script>
+            //-----------------------------------------
+            function insertAuthorNames(root) {
+                var json = JSON.parse(root);
+                //console.log("json", json.json);
+                var insert = d3.selectAll("#d3-content").selectAll("div");
+                var authors = insert.data(json.json.author).enter();
+                authors.append("div")
+                        .attr("class", "box")
+                        .append("div")
+                        .attr("class", "author-name")
+                        .attr("id", function(d) {
+                    return "authorId-" + d.id;
+                })
+                        .on('mouseover.tooltip', function(d) {
+                    d3.select("#authorId-" + d.id + " text").remove();
+                    d3.select('#authorId-' + d.id)
+                            .append('text')
+                            .attr('class', 'name-rollover')
+                            .text('  --> ' + d.attribute + " conf.")
+                            .transition()
+                            .style('opacity', 0)
+                            .duration(500)
+                            .style('opacity', '100%')
+                            ;
+                })
+                        .on('mouseout.tooltip', function(d) {
+                    d3.select("#authorId-" + d.id + " text")
+                            .transition()
+                            .duration(500)
+                            .style('opacity', 0)
+                            .remove();
+                })
+                        .text(function(d) {
+                    return d.name;
+                });
+
+                // attribut des auteurs
+                d3.selectAll('.box')
+                        .append('div')
+                        .style("width", function(d) {
+                    return (d.attribute / 2) + "em";
+                })
+                        .attr("class", "author-attribute")
+                        .on('mouseover.tooltip', function(d) {
+                    d3.select("text.name-rollover").remove();
+                    d3.selectAll('footer')
+                            .append('text')
+                            .attr('class', 'name-rollover')
+                            .text(d.attribute + " conf.")
+                            ;
+                })
+                        .on('mouseout.tooltip', function(d) {
+                    d3.select("text.name-rollover")
+                            .transition()
+                            .duration(500)
+                            .style('opacity', 0)
+                            .remove();
+                })
+                        .text(function(d) {
+                    return d.attribute;
+                });
+
+
+
+            }
+            //-----------------------------------------
+            function insertMenu(root) {
+                var json = JSON.parse(root);
+                console.log("json", json.json.value);
+                var insert = d3.selectAll("#menu").selectAll("div");
+                var menu = insert.data(json.json.menu).enter();
+                menu.append("div")
+                        .attr("class", "menu")
+                        .append("a")
+                        .attr("href", function(d) {
+                    return d.name;
+                })
+                        .text(function(d) {
+                    return d.label
+                });
+            }
+            //-----------------------------------------
+            // adresse regulierement ecoutee
+            var socket = io.connect('http://127.0.0.1:8080');
+
+            socket.on('authors', function(data) {
+                insertAuthorNames(data);
+                socket.emit('ack');
+            });
+
+            socket.on('menu', function(data) {
+                insertMenu(data);
+                socket.emit('ack');
+            });
+
+            socket.emit('require', {file: 'menu', message: 'menu'});
+            socket.emit('require', {file: 'auteurs', message:'authors'});
+        </script>
+    </body>
+</html>
+
