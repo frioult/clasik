@@ -67,4 +67,5 @@ A much better solution:
 
 At the end, edit the `titles.json` file to close the JSON delimiters. The result is [here](https://github.com/frioult/clasik/blob/master/data/titles-def.json).
 
-
+    php ../src/phpfilter/index.php titles.filter | sed -f ../filter/filter.sed > titles.filter1
+    (echo "{"; echo '"titles": [ '; sed -f ../filter/transform.sed titles.filter1 ; echo "{}"; echo "]"; echo "}") >  titles.json

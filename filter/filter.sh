@@ -21,8 +21,9 @@ while :; do
     if [ $# -eq 0 ]; then
         break
     else
-        track=$(sed -n "$1p" $new | sed 's/.*"track":\([0-9]*\).*/\1/')
+        track=$(sed -n "$1p" $new | sed 's/.*track:\([0-9]*\).*/\1/')
         echo $track
+exit
         echo $track >> $remove
         sed -i $1d $new 
     fi
