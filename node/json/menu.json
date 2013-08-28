@@ -1,0 +1,22 @@
+{
+    "items": {
+        "items": [
+            {
+                "name": "accueil",
+                "label": "Accueil"
+            },
+            {
+                "name": "auteurs",
+                "label": "Auteurs"
+            },
+            {
+                "name": "conferences",
+                "label": "Conférences"
+            },
+            {
+                "name": "graphe",
+                "label": "Graphe"
+            }
+        ]
+    }
+}
