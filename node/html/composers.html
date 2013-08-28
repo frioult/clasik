@@ -19,16 +19,42 @@
             //-----------------------------------------
             function insertComposers(root) {
                 var json = JSON.parse(root);
-                console.log("json", json.json)
+                console.log("json", json.json);
                 var insert = d3.selectAll("#d3-content").selectAll("div");
-                var authors = insert.data(json.json.author).enter();
+                var authors =
+                        insert
+                        .data(json.json.artist)
+                        .enter()
+                        .append("div")
+                        .attr("class", "composer");
+                d3
+                        .selectAll("div")
+                        .selectAll(".composer")
+                        .append("div")
+                        .attr("class", "composer-name")
+                        .text(function(d) {
+                    return d.name;
+                }
+                );
+
+                d3
+                        .selectAll("div")
+                        .selectAll(".composer")
+                        .append("div")
+                        .style("width", function(d){return 20 * Math.log(d.count);})
+                        .attr("class", "composer-count")
+                        .text(function(d) {
+                    return d.count;
+                }
+                );
+
             }
 
-    
-    //-----------------------------------------
+
+            //-----------------------------------------
             function insertMenu(root) {
                 var json = JSON.parse(root);
-                console.log("json", json.json.value);
+                console.log("json", json);
                 var insert = d3.selectAll("#menu").selectAll("div");
                 var menu = insert.data(json.json.menu).enter();
                 menu.append("div")
@@ -56,7 +82,7 @@
             });
 
             socket.emit('require', {query: 'menu', message: 'menu'});
-            socket.emit('require', {query: 'artistsMoreThan5Tracks', message:'composers'});
+            socket.emit('require', {query: 'artistsMoreThan5Tracks', message: 'composers'});
         </script>
     </body>
 </html>

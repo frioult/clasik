@@ -50,11 +50,17 @@ section #d3-content{
     width: 36em;
 }
 
-.author-name{
+.composer{
+    position: relative;
+    float:none;
+    clear: both;
+}
+
+.composer-name{
     float: left;
     font-size: small;
 }
-.author-attribute{
+.composer-count{
     float: right;
     background-color: #00933C;
     text-align: right;
