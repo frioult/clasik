@@ -1,0 +1,1 @@
+/clasix/artist[count > 5]

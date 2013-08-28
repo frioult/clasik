@@ -1,0 +1,817 @@
+<clasix>
+  <artist>
+    <id>228866</id>
+    <name>anton webern</name>
+    <count>32</count>
+  </artist>
+  <artist>
+    <id>879067</id>
+    <name>sergei prokofiev</name>
+    <count>24</count>
+  </artist>
+  <artist>
+    <id>1422777</id>
+    <name>samson françois , louis frémaux , orchestre national de l 'opéra de monte -carlo</name>
+    <count>6</count>
+  </artist>
+  <artist>
+    <id>838843</id>
+    <name>dmitri chostakovitch</name>
+    <count>1792</count>
+  </artist>
+  <artist>
+    <id>463114</id>
+    <name>nikolai andreyevich rimsky -korsakov</name>
+    <count>4</count>
+  </artist>
+  <artist>
+    <id>828955</id>
+    <name>ludwig van beethoven</name>
+    <count>13344</count>
+  </artist>
+  <artist>
+    <id>246284</id>
+    <name>piotr ilitch tchaïkovski</name>
+    <count>1613</count>
+  </artist>
+  <artist>
+    <id>405389</id>
+    <name>peter ilyich tchaikovsky</name>
+    <count>14</count>
+  </artist>
+  <artist>
+    <id>450118</id>
+    <name>niccolò paganini</name>
+    <count>31</count>
+  </artist>
+  <artist>
+    <id>901272</id>
+    <name>gabriel fauré</name>
+    <count>391</count>
+  </artist>
+  <artist>
+    <id>546664</id>
+    <name>leonard bernstein</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>1421865</id>
+    <name>dmitry shostakovich; yo‐yo ma</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>59433</id>
+    <name>franz schubert</name>
+    <count>6</count>
+  </artist>
+  <artist>
+    <id>277086</id>
+    <name>nova manassas symphony orchestra</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>846104</id>
+    <name>lang lang</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>627571</id>
+    <name>ievgueni kissine</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>239342</id>
+    <name>peter ilich tchaikovsky</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>804003</id>
+    <name>mikulás skuta</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>270704</id>
+    <name>povilas stravinsky</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>859296</id>
+    <name>maurice duruflé</name>
+    <count>61</count>
+  </artist>
+  <artist>
+    <id>843581</id>
+    <name>sergey prokofiev</name>
+    <count>36</count>
+  </artist>
+  <artist>
+    <id>934290</id>
+    <name>sir edward elgar</name>
+    <count>248</count>
+  </artist>
+  <artist>
+    <id>229480</id>
+    <name>jacqueline du pré</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>467980</id>
+    <name>netherland chamber choir , limburg symphony orchestra</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>27312</id>
+    <name>london philharmonic orchestra</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>1028351</id>
+    <name>nikolai rimsky -korsakov</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>352353</id>
+    <name>nikolaï miaskovski</name>
+    <count>5</count>
+  </artist>
+  <artist>
+    <id>104253</id>
+    <name>nikolaï kapoustine</name>
+    <count>10</count>
+  </artist>
+  <artist>
+    <id>1493382</id>
+    <name>johannes brahmssir neville marrineracademy of st martin in the fields</name>
+    <count>6</count>
+  </artist>
+  <artist>
+    <id>87471</id>
+    <name>vlado perlemuter</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>214969</id>
+    <name>john williams</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>240042</id>
+    <name>prokofiev</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>1211894</id>
+    <name>ludwig van beethoven; vladimir horowitz</name>
+    <count>4</count>
+  </artist>
+  <artist>
+    <id>291634</id>
+    <name>henri vieuxtemps</name>
+    <count>20</count>
+  </artist>
+  <artist>
+    <id>262517</id>
+    <name>georg friedrich händel</name>
+    <count>8</count>
+  </artist>
+  <artist>
+    <id>489290</id>
+    <name>carl maria von weber</name>
+    <count>17</count>
+  </artist>
+  <artist>
+    <id>691369</id>
+    <name>united states marine band</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>71777</id>
+    <name>epic brass</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>455949</id>
+    <name>květa novotná</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>889601</id>
+    <name>samuel barber</name>
+    <count>106</count>
+  </artist>
+  <artist>
+    <id>352122</id>
+    <name>bobby mcferrin</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>1240846</id>
+    <name>peter il 'yich tchaikovsky</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>815190</id>
+    <name>Édouard lalo</name>
+    <count>47</count>
+  </artist>
+  <artist>
+    <id>622824</id>
+    <name>piotr ilich tchaikovsky</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>412480</id>
+    <name>rimsky -korsakov</name>
+    <count>5</count>
+  </artist>
+  <artist>
+    <id>286875</id>
+    <name>edward elgar</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>28416</id>
+    <name>zoltán kodály</name>
+    <count>6</count>
+  </artist>
+  <artist>
+    <id>442499</id>
+    <name>alexandre glazounov</name>
+    <count>8</count>
+  </artist>
+  <artist>
+    <id>287952</id>
+    <name>kevin kenner</name>
+    <count>6</count>
+  </artist>
+  <artist>
+    <id>762665</id>
+    <name>dan gibson</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>892372</id>
+    <name>johann strauss i</name>
+    <count>67</count>
+  </artist>
+  <artist>
+    <id>904457</id>
+    <name>dmitri borisovich kabalevsky</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>1476546</id>
+    <name>wienawski</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>387360</id>
+    <name>lee ritenour &amp; dave grusin</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>353510</id>
+    <name>serge prokofieff</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>425214</id>
+    <name>southampton youth orchestra</name>
+    <count>4</count>
+  </artist>
+  <artist>
+    <id>1204597</id>
+    <name>dmitri chostakovitch; chicago symphony orchestra , leonard bernstein</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>731846</id>
+    <name>ernest chausson</name>
+    <count>14</count>
+  </artist>
+  <artist>
+    <id>379834</id>
+    <name>tchaikovsky</name>
+    <count>13</count>
+  </artist>
+  <artist>
+    <id>534477</id>
+    <name>swr sinfonieorchester baden -baden und freiburg</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>913756</id>
+    <name>max bruch</name>
+    <count>223</count>
+  </artist>
+  <artist>
+    <id>1225126</id>
+    <name>serge rachmaninoff</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>513109</id>
+    <name>dmitri shostakovich</name>
+    <count>103</count>
+  </artist>
+  <artist>
+    <id>237192</id>
+    <name>grieg</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>1452102</id>
+    <name>frédéric chopin; garrick ohlsson &amp; ivo pogorelich</name>
+    <count>5</count>
+  </artist>
+  <artist>
+    <id>966480</id>
+    <name>salli terri , laurindo almeida &amp; martin ruderman</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>744833</id>
+    <name>johann strauss ii</name>
+    <count>414</count>
+  </artist>
+  <artist>
+    <id>785506</id>
+    <name>sergei rachmaninov</name>
+    <count>80</count>
+  </artist>
+  <artist>
+    <id>345887</id>
+    <name>the ball orchestra of vienna</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>166559</id>
+    <name>felix mendelssohn</name>
+    <count>470</count>
+  </artist>
+  <artist>
+    <id>1473663</id>
+    <name>beethoven; wiener philharmoniker cond . )wilhelm furtwängler</name>
+    <count>7</count>
+  </artist>
+  <artist>
+    <id>518727</id>
+    <name>gustav holst</name>
+    <count>196</count>
+  </artist>
+  <artist>
+    <id>1334595</id>
+    <name>michel bergman duo</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>747967</id>
+    <name>henryk wieniawski</name>
+    <count>7</count>
+  </artist>
+  <artist>
+    <id>445719</id>
+    <name>mitsuko uchida</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>460013</id>
+    <name>pyotr il 'yich tchaikovsky</name>
+    <count>7</count>
+  </artist>
+  <artist>
+    <id>941620</id>
+    <name>the pink mice</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>240692</id>
+    <name>benjamin britten</name>
+    <count>21</count>
+  </artist>
+  <artist>
+    <id>550900</id>
+    <name>isaac albéniz</name>
+    <count>5</count>
+  </artist>
+  <artist>
+    <id>970837</id>
+    <name>federico moreno torroba</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>975373</id>
+    <name>vladimir horowitz</name>
+    <count>6</count>
+  </artist>
+  <artist>
+    <id>310883</id>
+    <name>vienna opera orchestra</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>207910</id>
+    <name>dmitri kabalevski</name>
+    <count>17</count>
+  </artist>
+  <artist>
+    <id>1184033</id>
+    <name>konzerthausorchester berlin</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>1524329</id>
+    <name>ludwig van beethoven separator:SLASH franz liszt</name>
+    <count>4</count>
+  </artist>
+  <artist>
+    <id>610720</id>
+    <name>thijs van leer</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>703682</id>
+    <name>george frideric handel</name>
+    <count>4</count>
+  </artist>
+  <artist>
+    <id>113375</id>
+    <name>andré rieu</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>697898</id>
+    <name>johan strauss</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>1136150</id>
+    <name>nikolay rimsky -korsakov</name>
+    <count>5</count>
+  </artist>
+  <artist>
+    <id>1505789</id>
+    <name>ludwig van beethoven;sir simon rattle , wiener philharmoniker , city of birmingham symphony orchestra</name>
+    <count>9</count>
+  </artist>
+  <artist>
+    <id>884103</id>
+    <name>sergueï rachmaninov</name>
+    <count>834</count>
+  </artist>
+  <artist>
+    <id>603684</id>
+    <name>schumann</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>626438</id>
+    <name>fernando sor</name>
+    <count>4</count>
+  </artist>
+  <artist>
+    <id>1539673</id>
+    <name>beethoven separator:SLASHhorowitz</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>829564</id>
+    <name>piotr tchaikovsky</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>915879</id>
+    <name>camille saint -saëns</name>
+    <count>125</count>
+  </artist>
+  <artist>
+    <id>1071269</id>
+    <name>frédéric françois chopin</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>324297</id>
+    <name>mauro giuliani</name>
+    <count>6</count>
+  </artist>
+  <artist>
+    <id>599879</id>
+    <name>pyotr tchaikovsky</name>
+    <count>11</count>
+  </artist>
+  <artist>
+    <id>1261495</id>
+    <name>oliver schnyder</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>413946</id>
+    <name>janusz olejniczak</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>887691</id>
+    <name>fryderyk chopin</name>
+    <count>24</count>
+  </artist>
+  <artist>
+    <id>64453</id>
+    <name>alexandre scriabine</name>
+    <count>77</count>
+  </artist>
+  <artist>
+    <id>1285067</id>
+    <name>frédéric chopin; arthur rubinstein</name>
+    <count>6</count>
+  </artist>
+  <artist>
+    <id>925887</id>
+    <name>peter schmalfuss</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>37807</id>
+    <name>boston pops orchestra</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>1353686</id>
+    <name>anatoli konstantinovich lyadov</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>500505</id>
+    <name>sergueï prokofiev</name>
+    <count>658</count>
+  </artist>
+  <artist>
+    <id>780370</id>
+    <name>serge prokofiev</name>
+    <count>5</count>
+  </artist>
+  <artist>
+    <id>529183</id>
+    <name>igor stravinsky</name>
+    <count>6</count>
+  </artist>
+  <artist>
+    <id>858666</id>
+    <name>budapest strings</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>659371</id>
+    <name>anatoli liadov</name>
+    <count>11</count>
+  </artist>
+  <artist>
+    <id>1421943</id>
+    <name>gabriel fauré; yo‐yo ma</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>988284</id>
+    <name>sergei rachmaninoff</name>
+    <count>6</count>
+  </artist>
+  <artist>
+    <id>545535</id>
+    <name>pyotr ilyich tchaikovsky</name>
+    <count>25</count>
+  </artist>
+  <artist>
+    <id>1526541</id>
+    <name>beethoven; bernstein , wiener philharmoniker</name>
+    <count>18</count>
+  </artist>
+  <artist>
+    <id>1195872</id>
+    <name>the philadelphia orchestra , eugene ormandy</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>351016</id>
+    <name>kyrill rodin</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>701958</id>
+    <name>dmitry shostakovich</name>
+    <count>21</count>
+  </artist>
+  <artist>
+    <id>1444448</id>
+    <name>frédéric chopin; samson françois</name>
+    <count>6</count>
+  </artist>
+  <artist>
+    <id>900796</id>
+    <name>robert schumann</name>
+    <count>1513</count>
+  </artist>
+  <artist>
+    <id>720058</id>
+    <name>london symphony orchestra</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>641418</id>
+    <name>dubravka tomšič</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>36513</id>
+    <name>wiener symphoniker</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>297954</id>
+    <name>hector berlioz</name>
+    <count>121</count>
+  </artist>
+  <artist>
+    <id>538312</id>
+    <name>richard strauss</name>
+    <count>237</count>
+  </artist>
+  <artist>
+    <id>209368</id>
+    <name>tbilisi symphony orchestra</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>580952</id>
+    <name>beethoven</name>
+    <count>9</count>
+  </artist>
+  <artist>
+    <id>467243</id>
+    <name>pablo de sarasate</name>
+    <count>22</count>
+  </artist>
+  <artist>
+    <id>1014797</id>
+    <name>the president 's own united states marine band</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>120560</id>
+    <name>korsakoff</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>117092</id>
+    <name>nikolaï rimski -korsakov</name>
+    <count>201</count>
+  </artist>
+  <artist>
+    <id>1421866</id>
+    <name>dmitry kabalevsky; yo‐yo ma</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>1187776</id>
+    <name>piotr tschaikowsky</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>746147</id>
+    <name>alban berg</name>
+    <count>5</count>
+  </artist>
+  <artist>
+    <id>633563</id>
+    <name>frédéric chopin</name>
+    <count>3238</count>
+  </artist>
+  <artist>
+    <id>1421905</id>
+    <name>edward elgar; yo‐yo ma</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>830146</id>
+    <name>sarakina</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>637264</id>
+    <name>antonín dvořák</name>
+    <count>778</count>
+  </artist>
+  <artist>
+    <id>35599</id>
+    <name>arnold schönberg</name>
+    <count>51</count>
+  </artist>
+  <artist>
+    <id>207078</id>
+    <name>johann strauss ii and josef strauss</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>440092</id>
+    <name>european jazz trio</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>14141</id>
+    <name>samson françois</name>
+    <count>7</count>
+  </artist>
+  <artist>
+    <id>517155</id>
+    <name>fritz kreisler</name>
+    <count>9</count>
+  </artist>
+  <artist>
+    <id>146518</id>
+    <name>johannes brahms</name>
+    <count>2559</count>
+  </artist>
+  <artist>
+    <id>413512</id>
+    <name>roland pöntinen</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>770737</id>
+    <name>bernhard crusell</name>
+    <count>10</count>
+  </artist>
+  <artist>
+    <id>396341</id>
+    <name>edvard grieg</name>
+    <count>685</count>
+  </artist>
+  <artist>
+    <id>355619</id>
+    <name>sergei vasilievich rachmaninoff</name>
+    <count>4</count>
+  </artist>
+  <artist>
+    <id>528480</id>
+    <name>joaquín turina</name>
+    <count>8</count>
+  </artist>
+  <artist>
+    <id>1026055</id>
+    <name>sergei sergeyevich prokofiev</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>1421908</id>
+    <name>johannes brahms; yo‐yo ma</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>820033</id>
+    <name>jean sibelius</name>
+    <count>687</count>
+  </artist>
+  <artist>
+    <id>1493581</id>
+    <name>beethovenpaul lewis</name>
+    <count>9</count>
+  </artist>
+  <artist>
+    <id>934024</id>
+    <name>andré kostelanetz</name>
+    <count>3</count>
+  </artist>
+  <artist>
+    <id>561028</id>
+    <name>camille saint -saens</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>855803</id>
+    <name>freddy kempf</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>527933</id>
+    <name>pjotr ilyich tchaikovsky</name>
+    <count>2</count>
+  </artist>
+  <artist>
+    <id>942762</id>
+    <name>franz liszt</name>
+    <count>25</count>
+  </artist>
+  <artist>
+    <id>1435305</id>
+    <name>tchaikovsky; george szell , the cleveland orchestra chorus</name>
+    <count>4</count>
+  </artist>
+  <artist>
+    <id>1039064</id>
+    <name>alexander feingold</name>
+    <count>1</count>
+  </artist>
+  <artist>
+    <id>269945</id>
+    <name>michel corboz</name>
+    <count>1</count>
+  </artist>
+</clasix>
