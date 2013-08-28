@@ -59,6 +59,10 @@ We use a shell script, that removes lines from a copy of the input and stores th
 
     cat titles.json.remove | (while read a; do sed -i "/$a/d" titles.json; done)
 
+A much better solution:
+
+    awk -F'|' 'BEGIN{while ((getline < "tracksToBeRemoved.txt") > 0){tab[$1]=1}}{if($3 in tab)next;print}' titles.txt |wc -l
+
 At the end, edit the `titles.json` file to close the JSON delimiters. The result is [here](https://github.com/frioult/clasik/blob/master/data/titles-def.json).
 
 
