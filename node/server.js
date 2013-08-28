@@ -67,7 +67,7 @@ io.sockets.on('connection', function(socket) {
         console.log('require', data);
 
         var session = new basex.Session("localhost", 1984, "admin", "admin");
-        var fileName = 'xq/' + data.file + '.xq';
+        var fileName = 'xquery/' + data.query + '.xq';
         console.log('fileName', fileName);
         var cmd = loadfile(fileName);
         var query = session.query(cmd);

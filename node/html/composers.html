@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Blank Page for d3js Experimentation</title>
-        <script src="http://127.0.0.1/rioultf/git/clasik/d3/d3.min.js"></script>
+        <script src="http://127.0.0.1/rioultf/git/clasik/d3/d3.v3.min.js"></script>
         <script src="socket.io/socket.io.js"></script>
         <link type="text/css" href="http://127.0.0.1/rioultf/git/clasik/node/style/style.css" rel="stylesheet"/>
     </head>
@@ -55,8 +55,8 @@
                 socket.emit('ack');
             });
 
-            socket.emit('require', {file: 'menu', message: 'menu'});
-            socket.emit('require', {file: 'composers', message:'composers'});
+            socket.emit('require', {query: 'menu', message: 'menu'});
+            socket.emit('require', {query: 'artistsMoreThan5Tracks', message:'composers'});
         </script>
     </body>
 </html>
