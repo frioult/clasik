@@ -56,6 +56,7 @@ We use a shell script, that removes lines from a copy of the input and stores th
 
 ### Remove the incorrect lines from the .json file:
 (takes also a long time)
+
     cat titles.json.remove | (while read a; do sed -i "/$a/d" titles.json; done)
 
 At the end, edit the `titles.json` file to close the JSON delimiters. The result is [here](https://github.com/frioult/clasik/blob/master/data/titles-def.json).
