@@ -14,6 +14,8 @@ A tentative for browsing the classical musique
         on titles.credit = credits.id ) credits
 
     on names.id = credits.artist
+### Filter the russian names
+    See https://github.com/frioult/clasik/blob/master/filter/filter-russ.sed.
 ### Main transformation with sed script
     php index.php titles.txt | sed -f filter.sed > titles.txt.sed
 ### Secondary transformation with sed script for producing JSON 
