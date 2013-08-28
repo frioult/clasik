@@ -27,7 +27,7 @@ We use a shell script, that removes lines from a copy of the input and stores th
     #!/bin/bash
 
     if [ $# -ne 1 ]; then
-        echo "erreur usage: $0 <JSON file>" 1>&2
+        ec  ho "erreur usage: $0 <JSON file>" 1>&2
         echo "filters the parts of the JSON with incorrect format" 1>&2
         exit 1
     fi
