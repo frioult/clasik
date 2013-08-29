@@ -74,6 +74,7 @@ At the end, edit the `titles.json` file to close the JSON delimiters. The result
 
 First extract the raw list of names:
 
+    sed '1,2d;s/.*artistname":"\([^"]*\).*/\1/' ../node/data/titles-def.json | sort -u > composers
     awk -F'|' '{print $2}' titles.txt | sort -u > Composers.txt
 
 then use the LastFM API for crawling the `yearformed`:
@@ -81,6 +82,8 @@ then use the LastFM API for crawling the `yearformed`:
     cat ../data/Composers.txt |(while read line; do echo $line; node lastfm.js "$line"; done) | tee result
 
 The result is poor...
+
+
 
     sed -n 's/.* \(1[6-9][0-9][0-9] .*\)/\1/p' result 
         1841 Antonín Dvořák
