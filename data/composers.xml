@@ -1,0 +1,817 @@
+<composers>
+<composer>
+<shortname>alban berg</shortname>
+<firstname>Alban</firstname>
+<lastname>Berg</lastname>
+</composer>
+<composer>
+<shortname>alexander feingold</shortname>
+<firstname>Alexander</firstname>
+<lastname>Feingold</lastname>
+</composer>
+<composer>
+<shortname>alexandre glazounov</shortname>
+<firstname>Alexandre</firstname>
+<lastname>Glazounov</lastname>
+</composer>
+<composer>
+<shortname>alexandre scriabine</shortname>
+<firstname>Alexandre</firstname>
+<lastname>Scriabine</lastname>
+</composer>
+<composer>
+<shortname>anatoli konstantinovich lyadov</shortname>
+<firstname>Anatoli</firstname>
+<lastname>Konstantinovich Lyadov</lastname>
+</composer>
+<composer>
+<shortname>anatoli liadov</shortname>
+<firstname>Anatoli</firstname>
+<lastname>Liadov</lastname>
+</composer>
+<composer>
+<shortname>andré kostelanetz</shortname>
+<firstname>André</firstname>
+<lastname>Kostelanetz</lastname>
+</composer>
+<composer>
+<shortname>andré rieu</shortname>
+<firstname>André</firstname>
+<lastname>Rieu</lastname>
+</composer>
+<composer>
+<shortname>antonín dvořák</shortname>
+<firstname>Antonín</firstname>
+<lastname>Dvořák</lastname>
+</composer>
+<composer>
+<shortname>anton webern</shortname>
+<firstname>Anton</firstname>
+<lastname>Webern</lastname>
+</composer>
+<composer>
+<shortname>arnold schönberg</shortname>
+<firstname>Arnold</firstname>
+<lastname>Schönberg</lastname>
+</composer>
+<composer>
+<shortname>beethoven</shortname>
+<firstname>Beethoven</firstname>
+<lastname></lastname>
+</composer>
+<composer>
+<shortname>beethoven; bernstein , wiener philharmoniker</shortname>
+<firstname>Beethoven;</firstname>
+<lastname>Bernstein, Wiener Philharmoniker</lastname>
+</composer>
+<composer>
+<shortname>beethovenpaul lewis</shortname>
+<firstname>BeethovenPaul</firstname>
+<lastname>Lewis</lastname>
+</composer>
+<composer>
+<shortname>beethoven separator:SLASHhorowitz</shortname>
+<firstname>Beethoven/Horowitz</firstname>
+<lastname></lastname>
+</composer>
+<composer>
+<shortname>beethoven; wiener philharmoniker cond . )wilhelm furtwängler</shortname>
+<firstname>Beethoven;</firstname>
+<lastname>Wiener Philharmoniker cond. Wilhelm Furtwängler</lastname>
+</composer>
+<composer>
+<shortname>benjamin britten</shortname>
+<firstname>Benjamin</firstname>
+<lastname>Britten</lastname>
+</composer>
+<composer>
+<shortname>bernhard crusell</shortname>
+<firstname>Bernhard</firstname>
+<lastname>Crusell</lastname>
+</composer>
+<composer>
+<shortname>bobby mcferrin</shortname>
+<firstname>Bobby</firstname>
+<lastname>McFerrin</lastname>
+</composer>
+<composer>
+<shortname>boston pops orchestra</shortname>
+<firstname>Boston</firstname>
+<lastname>Pops Orchestra</lastname>
+</composer>
+<composer>
+<shortname>budapest strings</shortname>
+<firstname>Budapest</firstname>
+<lastname>Strings</lastname>
+</composer>
+<composer>
+<shortname>camille saint -saens</shortname>
+<firstname>Camille</firstname>
+<lastname>Saint-Saens</lastname>
+</composer>
+<composer>
+<shortname>camille saint -saëns</shortname>
+<firstname>Camille</firstname>
+<lastname>Saint-Saëns</lastname>
+</composer>
+<composer>
+<shortname>carl maria von weber</shortname>
+<firstname>Carl</firstname>
+<lastname>Maria von Weber</lastname>
+</composer>
+<composer>
+<shortname>dan gibson</shortname>
+<firstname>Dan</firstname>
+<lastname>Gibson</lastname>
+</composer>
+<composer>
+<shortname>dmitri borisovich kabalevsky</shortname>
+<firstname>Dmitri</firstname>
+<lastname>Borisovich Kabalevsky</lastname>
+</composer>
+<composer>
+<shortname>dmitri chostakovitch</shortname>
+<firstname>Dmitri</firstname>
+<lastname>Chostakovitch</lastname>
+</composer>
+<composer>
+<shortname>dmitri chostakovitch; chicago symphony orchestra , leonard bernstein</shortname>
+<firstname>Dmitri</firstname>
+<lastname>Chostakovitch; Chicago Symphony Orchestra, Leonard Bernstein</lastname>
+</composer>
+<composer>
+<shortname>dmitri kabalevski</shortname>
+<firstname>Dmitri</firstname>
+<lastname>Kabalevski</lastname>
+</composer>
+<composer>
+<shortname>dmitri shostakovich</shortname>
+<firstname>Dmitri</firstname>
+<lastname>Shostakovich</lastname>
+</composer>
+<composer>
+<shortname>dmitry kabalevsky; yo‐yo ma</shortname>
+<firstname>Dmitry</firstname>
+<lastname>Kabalevsky; Yo‐Yo Ma</lastname>
+</composer>
+<composer>
+<shortname>dmitry shostakovich</shortname>
+<firstname>Dmitry</firstname>
+<lastname>Shostakovich</lastname>
+</composer>
+<composer>
+<shortname>dmitry shostakovich; yo‐yo ma</shortname>
+<firstname>Dmitry</firstname>
+<lastname>Shostakovich; Yo‐Yo Ma</lastname>
+</composer>
+<composer>
+<shortname>dubravka tomšič</shortname>
+<firstname>Dubravka</firstname>
+<lastname>Tomšič</lastname>
+</composer>
+<composer>
+<shortname>Édouard lalo</shortname>
+<firstname>Édouard</firstname>
+<lastname>Lalo</lastname>
+</composer>
+<composer>
+<shortname>edvard grieg</shortname>
+<firstname>Edvard</firstname>
+<lastname>Grieg</lastname>
+</composer>
+<composer>
+<shortname>edward elgar</shortname>
+<firstname>Edward</firstname>
+<lastname>Elgar</lastname>
+</composer>
+<composer>
+<shortname>edward elgar; yo‐yo ma</shortname>
+<firstname>Edward</firstname>
+<lastname>Elgar; Yo‐Yo Ma</lastname>
+</composer>
+<composer>
+<shortname>epic brass</shortname>
+<firstname>Epic</firstname>
+<lastname>Brass</lastname>
+</composer>
+<composer>
+<shortname>ernest chausson</shortname>
+<firstname>Ernest</firstname>
+<lastname>Chausson</lastname>
+</composer>
+<composer>
+<shortname>european jazz trio</shortname>
+<firstname>European</firstname>
+<lastname>Jazz Trio</lastname>
+</composer>
+<composer>
+<shortname>federico moreno torroba</shortname>
+<firstname>Federico</firstname>
+<lastname>Moreno Torroba</lastname>
+</composer>
+<composer>
+<shortname>felix mendelssohn</shortname>
+<firstname>Felix</firstname>
+<lastname>Mendelssohn</lastname>
+</composer>
+<composer>
+<shortname>fernando sor</shortname>
+<firstname>Fernando</firstname>
+<lastname>Sor</lastname>
+</composer>
+<composer>
+<shortname>franz liszt</shortname>
+<firstname>Franz</firstname>
+<lastname>Liszt</lastname>
+</composer>
+<composer>
+<shortname>franz schubert</shortname>
+<firstname>Franz</firstname>
+<lastname>Schubert</lastname>
+</composer>
+<composer>
+<shortname>freddy kempf</shortname>
+<firstname>Freddy</firstname>
+<lastname>Kempf</lastname>
+</composer>
+<composer>
+<shortname>frédéric chopin</shortname>
+<firstname>Frédéric</firstname>
+<lastname>Chopin</lastname>
+</composer>
+<composer>
+<shortname>frédéric chopin; arthur rubinstein</shortname>
+<firstname>Frédéric</firstname>
+<lastname>Chopin; Arthur Rubinstein</lastname>
+</composer>
+<composer>
+<shortname>frédéric chopin; garrick ohlsson & ivo pogorelich</shortname>
+<firstname>Frédéric</firstname>
+<lastname>Chopin; Garrick Ohlsson & Ivo Pogorelich</lastname>
+</composer>
+<composer>
+<shortname>frédéric chopin; samson françois</shortname>
+<firstname>Frédéric</firstname>
+<lastname>Chopin; Samson François</lastname>
+</composer>
+<composer>
+<shortname>frédéric françois chopin</shortname>
+<firstname>Frédéric</firstname>
+<lastname>François Chopin</lastname>
+</composer>
+<composer>
+<shortname>fritz kreisler</shortname>
+<firstname>Fritz</firstname>
+<lastname>Kreisler</lastname>
+</composer>
+<composer>
+<shortname>fryderyk chopin</shortname>
+<firstname>Frederick</firstname>
+<lastname>Chopin</lastname>
+</composer>
+<composer>
+<shortname>gabriel fauré</shortname>
+<firstname>Gabriel</firstname>
+<lastname>Fauré</lastname>
+</composer>
+<composer>
+<shortname>gabriel fauré; yo‐yo ma</shortname>
+<firstname>Gabriel</firstname>
+<lastname>Fauré; Yo‐Yo Ma</lastname>
+</composer>
+<composer>
+<shortname>george frideric handel</shortname>
+<firstname>George</firstname>
+<lastname>Frideric Handel</lastname>
+</composer>
+<composer>
+<shortname>georg friedrich händel</shortname>
+<firstname>Georg</firstname>
+<lastname>Friedrich Händel</lastname>
+</composer>
+<composer>
+<shortname>grieg</shortname>
+<firstname>Grieg</firstname>
+<lastname></lastname>
+</composer>
+<composer>
+<shortname>gustav holst</shortname>
+<firstname>Gustav</firstname>
+<lastname>Holst</lastname>
+</composer>
+<composer>
+<shortname>hector berlioz</shortname>
+<firstname>Hector</firstname>
+<lastname>Berlioz</lastname>
+</composer>
+<composer>
+<shortname>henri vieuxtemps</shortname>
+<firstname>Henri</firstname>
+<lastname>Vieuxtemps</lastname>
+</composer>
+<composer>
+<shortname>henryk wieniawski</shortname>
+<firstname>Henryk</firstname>
+<lastname>Wieniawski</lastname>
+</composer>
+<composer>
+<shortname>ievgueni kissine</shortname>
+<firstname>Ievgueni</firstname>
+<lastname>Kissine</lastname>
+</composer>
+<composer>
+<shortname>igor stravinsky</shortname>
+<firstname>Igor</firstname>
+<lastname>Stravinsky</lastname>
+</composer>
+<composer>
+<shortname>isaac albéniz</shortname>
+<firstname>Isaac</firstname>
+<lastname>Albéniz</lastname>
+</composer>
+<composer>
+<shortname>jacqueline du pré</shortname>
+<firstname>Jacqueline</firstname>
+<lastname>du Pré</lastname>
+</composer>
+<composer>
+<shortname>janusz olejniczak</shortname>
+<firstname>Janusz</firstname>
+<lastname>Olejniczak</lastname>
+</composer>
+<composer>
+<shortname>jean sibelius</shortname>
+<firstname>Jean</firstname>
+<lastname>Sibelius</lastname>
+</composer>
+<composer>
+<shortname>joaquín turina</shortname>
+<firstname>Joaquín</firstname>
+<lastname>Turina</lastname>
+</composer>
+<composer>
+<shortname>johannes brahms</shortname>
+<firstname>Johannes</firstname>
+<lastname>Brahms</lastname>
+</composer>
+<composer>
+<shortname>johannes brahmssir neville marrineracademy of st martin in the fields</shortname>
+<firstname>Johannes</firstname>
+<lastname>BrahmsSir Neville MarrinerAcademy of St Martin in the Fields</lastname>
+</composer>
+<composer>
+<shortname>johannes brahms; yo‐yo ma</shortname>
+<firstname>Johannes</firstname>
+<lastname>Brahms; Yo‐Yo Ma</lastname>
+</composer>
+<composer>
+<shortname>johann strauss i</shortname>
+<firstname>Johann</firstname>
+<lastname>Strauss I</lastname>
+</composer>
+<composer>
+<shortname>johann strauss ii</shortname>
+<firstname>Johann</firstname>
+<lastname>Strauss II</lastname>
+</composer>
+<composer>
+<shortname>johann strauss ii and josef strauss</shortname>
+<firstname>Johann</firstname>
+<lastname>Strauss II and Josef Strauss</lastname>
+</composer>
+<composer>
+<shortname>johan strauss</shortname>
+<firstname>Johan</firstname>
+<lastname>Strauss</lastname>
+</composer>
+<composer>
+<shortname>john williams</shortname>
+<firstname>John</firstname>
+<lastname>Williams</lastname>
+</composer>
+<composer>
+<shortname>kevin kenner</shortname>
+<firstname>Kevin</firstname>
+<lastname>Kenner</lastname>
+</composer>
+<composer>
+<shortname>konzerthausorchester berlin</shortname>
+<firstname>Konzerthausorchester</firstname>
+<lastname>Berlin</lastname>
+</composer>
+<composer>
+<shortname>korsakoff</shortname>
+<firstname>Korsakoff</firstname>
+<lastname></lastname>
+</composer>
+<composer>
+<shortname>květa novotná</shortname>
+<firstname>Květa</firstname>
+<lastname>Novotná</lastname>
+</composer>
+<composer>
+<shortname>kyrill rodin</shortname>
+<firstname>Kyrill</firstname>
+<lastname>Rodin</lastname>
+</composer>
+<composer>
+<shortname>lang lang</shortname>
+<firstname>Lang</firstname>
+<lastname>Lang</lastname>
+</composer>
+<composer>
+<shortname>lee ritenour & dave grusin</shortname>
+<firstname>Lee</firstname>
+<lastname>Ritenour & Dave Grusin</lastname>
+</composer>
+<composer>
+<shortname>leonard bernstein</shortname>
+<firstname>Leonard</firstname>
+<lastname>Bernstein</lastname>
+</composer>
+<composer>
+<shortname>london philharmonic orchestra</shortname>
+<firstname>London</firstname>
+<lastname>Philharmonic Orchestra</lastname>
+</composer>
+<composer>
+<shortname>london symphony orchestra</shortname>
+<firstname>London</firstname>
+<lastname>Symphony Orchestra</lastname>
+</composer>
+<composer>
+<shortname>ludwig van beethoven</shortname>
+<firstname>Ludwig van</firstname>
+<lastname>Beethoven</lastname>
+</composer>
+<composer>
+<shortname>ludwig van beethoven separator:SLASH franz liszt</shortname>
+<firstname>Ludwig</firstname>
+<lastname>van Beethoven / Franz Liszt</lastname>
+</composer>
+<composer>
+<shortname>ludwig van beethoven;sir simon rattle , wiener philharmoniker , city of birmingham symphony orchestra</shortname>
+<firstname>Ludwig</firstname>
+<lastname>van Beethoven;Sir Simon Rattle, Wiener Philharmoniker, City of Birmingham Symphony Orchestra</lastname>
+</composer>
+<composer>
+<shortname>ludwig van beethoven; vladimir horowitz</shortname>
+<firstname>Ludwig</firstname>
+<lastname>van Beethoven; Vladimir Horowitz</lastname>
+</composer>
+<composer>
+<shortname>maurice duruflé</shortname>
+<firstname>Maurice</firstname>
+<lastname>Duruflé</lastname>
+</composer>
+<composer>
+<shortname>mauro giuliani</shortname>
+<firstname>Mauro</firstname>
+<lastname>Giuliani</lastname>
+</composer>
+<composer>
+<shortname>max bruch</shortname>
+<firstname>Max</firstname>
+<lastname>Bruch</lastname>
+</composer>
+<composer>
+<shortname>michel bergman duo</shortname>
+<firstname>Michel</firstname>
+<lastname>Bergman Duo</lastname>
+</composer>
+<composer>
+<shortname>michel corboz</shortname>
+<firstname>Michel</firstname>
+<lastname>Corboz</lastname>
+</composer>
+<composer>
+<shortname>mikulás skuta</shortname>
+<firstname>Mikulás</firstname>
+<lastname>Skuta</lastname>
+</composer>
+<composer>
+<shortname>mitsuko uchida</shortname>
+<firstname>Mitsuko</firstname>
+<lastname>Uchida</lastname>
+</composer>
+<composer>
+<shortname>netherland chamber choir , limburg symphony orchestra</shortname>
+<firstname>Netherland</firstname>
+<lastname>Chamber Choir, Limburg Symphony Orchestra</lastname>
+</composer>
+<composer>
+<shortname>niccolò paganini</shortname>
+<firstname>Niccolò</firstname>
+<lastname>Paganini</lastname>
+</composer>
+<composer>
+<shortname>nikolai andreyevich rimsky -korsakov</shortname>
+<firstname>Nikolai</firstname>
+<lastname>Andreyevich Rimsky-Korsakov</lastname>
+</composer>
+<composer>
+<shortname>nikolaï kapoustine</shortname>
+<firstname>Nikolaï</firstname>
+<lastname>Kapoustine</lastname>
+</composer>
+<composer>
+<shortname>nikolaï miaskovski</shortname>
+<firstname>Nikolaï</firstname>
+<lastname>Miaskovski</lastname>
+</composer>
+<composer>
+<shortname>nikolaï rimski -korsakov</shortname>
+<firstname>Nikolaï</firstname>
+<lastname>Rimski-Korsakov</lastname>
+</composer>
+<composer>
+<shortname>nikolai rimsky -korsakov</shortname>
+<firstname>Nikolai</firstname>
+<lastname>Rimsky-Korsakov</lastname>
+</composer>
+<composer>
+<shortname>nikolay rimsky -korsakov</shortname>
+<firstname>Nikolay</firstname>
+<lastname>Rimsky-Korsakov</lastname>
+</composer>
+<composer>
+<shortname>nova manassas symphony orchestra</shortname>
+<firstname>NOVA</firstname>
+<lastname>Manassas Symphony Orchestra</lastname>
+</composer>
+<composer>
+<shortname>oliver schnyder</shortname>
+<firstname>Oliver</firstname>
+<lastname>Schnyder</lastname>
+</composer>
+<composer>
+<shortname>pablo de sarasate</shortname>
+<firstname>Pablo</firstname>
+<lastname>de Sarasate</lastname>
+</composer>
+<composer>
+<shortname>peter ilich tchaikovsky</shortname>
+<firstname>Peter</firstname>
+<lastname>Ilich Tchaikovsky</lastname>
+</composer>
+<composer>
+<shortname>peter il 'yich tchaikovsky</shortname>
+<firstname>Peter</firstname>
+<lastname>Il'yich Tchaikovsky</lastname>
+</composer>
+<composer>
+<shortname>peter ilyich tchaikovsky</shortname>
+<firstname>Peter</firstname>
+<lastname>Ilyich Tchaikovsky</lastname>
+</composer>
+<composer>
+<shortname>peter schmalfuss</shortname>
+<firstname>Peter</firstname>
+<lastname>Schmalfuss</lastname>
+</composer>
+<composer>
+<shortname>piotr ilich tchaikovsky</shortname>
+<firstname>Piotr</firstname>
+<lastname>Ilich Tchaikovsky</lastname>
+</composer>
+<composer>
+<shortname>piotr ilitch tchaïkovski</shortname>
+<firstname>Piotr</firstname>
+<lastname>Ilitch Tchaïkovski</lastname>
+</composer>
+<composer>
+<shortname>piotr tchaikovsky</shortname>
+<firstname>Piotr</firstname>
+<lastname>Tchaikovsky</lastname>
+</composer>
+<composer>
+<shortname>piotr tschaikowsky</shortname>
+<firstname>Piotr</firstname>
+<lastname>Tschaikowsky</lastname>
+</composer>
+<composer>
+<shortname>pjotr ilyich tchaikovsky</shortname>
+<firstname>Pjotr</firstname>
+<lastname>Ilyich Tchaikovsky</lastname>
+</composer>
+<composer>
+<shortname>povilas stravinsky</shortname>
+<firstname>Povilas</firstname>
+<lastname>Stravinsky</lastname>
+</composer>
+<composer>
+<shortname>prokofiev</shortname>
+<firstname>Prokofiev</firstname>
+<lastname></lastname>
+</composer>
+<composer>
+<shortname>pyotr il 'yich tchaikovsky</shortname>
+<firstname>Pyotr</firstname>
+<lastname>Il'yich Tchaikovsky</lastname>
+</composer>
+<composer>
+<shortname>pyotr ilyich tchaikovsky</shortname>
+<firstname>Pyotr</firstname>
+<lastname>Ilyich Tchaikovsky</lastname>
+</composer>
+<composer>
+<shortname>pyotr tchaikovsky</shortname>
+<firstname>Pyotr</firstname>
+<lastname>Tchaikovsky</lastname>
+</composer>
+<composer>
+<shortname>richard strauss</shortname>
+<firstname>Richard</firstname>
+<lastname>Strauss</lastname>
+</composer>
+<composer>
+<shortname>rimsky -korsakov</shortname>
+<firstname>Rimsky-Korsakov</firstname>
+<lastname></lastname>
+</composer>
+<composer>
+<shortname>robert schumann</shortname>
+<firstname>Robert</firstname>
+<lastname>Schumann</lastname>
+</composer>
+<composer>
+<shortname>roland pöntinen</shortname>
+<firstname>Roland</firstname>
+<lastname>Pöntinen</lastname>
+</composer>
+<composer>
+<shortname>salli terri , laurindo almeida & martin ruderman</shortname>
+<firstname>Salli</firstname>
+<lastname>Terri, Laurindo Almeida & Martin Ruderman</lastname>
+</composer>
+<composer>
+<shortname>samson françois</shortname>
+<firstname>Samson</firstname>
+<lastname>François</lastname>
+</composer>
+<composer>
+<shortname>samson françois , louis frémaux , orchestre national de l 'opéra de monte -carlo</shortname>
+<firstname>Samson</firstname>
+<lastname>François, Louis Frémaux, Orchestre National de l'Opéra de Monte-Carlo</lastname>
+</composer>
+<composer>
+<shortname>samuel barber</shortname>
+<firstname>Samuel</firstname>
+<lastname>Barber</lastname>
+</composer>
+<composer>
+<shortname>sarakina</shortname>
+<firstname>Sarakina</firstname>
+<lastname></lastname>
+</composer>
+<composer>
+<shortname>schumann</shortname>
+<firstname>Schumann</firstname>
+<lastname></lastname>
+</composer>
+<composer>
+<shortname>sergei prokofiev</shortname>
+<firstname>Sergei</firstname>
+<lastname>Prokofiev</lastname>
+</composer>
+<composer>
+<shortname>sergei rachmaninoff</shortname>
+<firstname>Sergei</firstname>
+<lastname>Rachmaninoff</lastname>
+</composer>
+<composer>
+<shortname>sergei rachmaninov</shortname>
+<firstname>Sergei</firstname>
+<lastname>Rachmaninov</lastname>
+</composer>
+<composer>
+<shortname>sergei sergeyevich prokofiev</shortname>
+<firstname>Sergei</firstname>
+<lastname>Sergeyevich Prokofiev</lastname>
+</composer>
+<composer>
+<shortname>sergei vasilievich rachmaninoff</shortname>
+<firstname>Sergei</firstname>
+<lastname>Vasilievich Rachmaninoff</lastname>
+</composer>
+<composer>
+<shortname>serge prokofieff</shortname>
+<firstname>Serge</firstname>
+<lastname>Prokofieff</lastname>
+</composer>
+<composer>
+<shortname>serge prokofiev</shortname>
+<firstname>Serge</firstname>
+<lastname>Prokofiev</lastname>
+</composer>
+<composer>
+<shortname>serge rachmaninoff</shortname>
+<firstname>Serge</firstname>
+<lastname>Rachmaninoff</lastname>
+</composer>
+<composer>
+<shortname>sergey prokofiev</shortname>
+<firstname>Sergey</firstname>
+<lastname>Prokofiev</lastname>
+</composer>
+<composer>
+<shortname>sergueï prokofiev</shortname>
+<firstname>Sergueï</firstname>
+<lastname>Prokofiev</lastname>
+</composer>
+<composer>
+<shortname>sergueï rachmaninov</shortname>
+<firstname>Sergueï</firstname>
+<lastname>Rachmaninov</lastname>
+</composer>
+<composer>
+<shortname>sir edward elgar</shortname>
+<firstname>Sir</firstname>
+<lastname>Edward Elgar</lastname>
+</composer>
+<composer>
+<shortname>southampton youth orchestra</shortname>
+<firstname>Southampton</firstname>
+<lastname>Youth Orchestra</lastname>
+</composer>
+<composer>
+<shortname>swr sinfonieorchester baden -baden und freiburg</shortname>
+<firstname>SWR</firstname>
+<lastname>Sinfonieorchester Baden-Baden und Freiburg</lastname>
+</composer>
+<composer>
+<shortname>tbilisi symphony orchestra</shortname>
+<firstname>Tbilisi</firstname>
+<lastname>Symphony Orchestra</lastname>
+</composer>
+<composer>
+<shortname>tchaikovsky</shortname>
+<firstname>Tchaikovsky</firstname>
+<lastname></lastname>
+</composer>
+<composer>
+<shortname>tchaikovsky; george szell , the cleveland orchestra chorus</shortname>
+<firstname>Tchaikovsky;</firstname>
+<lastname>George Szell, The Cleveland Orchestra Chorus</lastname>
+</composer>
+<composer>
+<shortname>the ball orchestra of vienna</shortname>
+<firstname>The</firstname>
+<lastname>Ball Orchestra of Vienna</lastname>
+</composer>
+<composer>
+<shortname>the philadelphia orchestra , eugene ormandy</shortname>
+<firstname>The</firstname>
+<lastname>Philadelphia Orchestra, Eugene Ormandy</lastname>
+</composer>
+<composer>
+<shortname>the pink mice</shortname>
+<firstname>The</firstname>
+<lastname>Pink Mice</lastname>
+</composer>
+<composer>
+<shortname>the president 's own united states marine band</shortname>
+<firstname>"The</firstname>
+<lastname>President's Own" United States Marine Band</lastname>
+</composer>
+<composer>
+<shortname>thijs van leer</shortname>
+<firstname>Thijs</firstname>
+<lastname>van Leer</lastname>
+</composer>
+<composer>
+<shortname>united states marine band</shortname>
+<firstname>United</firstname>
+<lastname>States Marine Band</lastname>
+</composer>
+<composer>
+<shortname>vienna opera orchestra</shortname>
+<firstname>Vienna</firstname>
+<lastname>Opera Orchestra</lastname>
+</composer>
+<composer>
+<shortname>vladimir horowitz</shortname>
+<firstname>Vladimir</firstname>
+<lastname>Horowitz</lastname>
+</composer>
+<composer>
+<shortname>vlado perlemuter</shortname>
+<firstname>Vlado</firstname>
+<lastname>Perlemuter</lastname>
+</composer>
+<composer>
+<shortname>wienawski</shortname>
+<firstname>Wienawski</firstname>
+<lastname></lastname>
+</composer>
+<composer>
+<shortname>wiener symphoniker</shortname>
+<firstname>Wiener</firstname>
+<lastname>Symphoniker</lastname>
+</composer>
+<composer>
+<shortname>zoltán kodály</shortname>
+<firstname>Zoltán</firstname>
+<lastname>Kodály</lastname>
+</composer>
+</composers>

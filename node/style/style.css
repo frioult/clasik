@@ -57,13 +57,22 @@ section #d3-content{
 }
 
 .composer-name{
-    float: left;
     font-size: small;
 }
+
+.composer-lastname{
+    float:left;
+    margin-left: 0.5em;
+}
+
+.composer-firstname{
+    float:left;
+    color: #822;
+}
+
 .composer-count{
     float: right;
     background-color: #00933C;
     text-align: right;
     color: whitesmoke;
-    font-size: small;
 }

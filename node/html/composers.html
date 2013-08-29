@@ -12,8 +12,13 @@
             </menu>
         </header>
         <section id="content">
-            <div id="d3-content"></div>
-            <div id="nconf"></div>
+            <div id="d3-content">
+                <div><button id="sortname">A-Z</button>
+                    <div style="float: right;">
+                        <button id="sortcount">0-9</button>
+                    </div>
+                </div>
+                <div id="nconf"></div>
         </section>
         <script>
             //-----------------------------------------
@@ -27,21 +32,25 @@
                         .enter()
                         .append("div")
                         .attr("class", "composer");
-                d3
-                        .selectAll("div")
+                var names = d3.selectAll("div")
                         .selectAll(".composer")
                         .append("div")
-                        .attr("class", "composer-name")
+                        .attr("class", "composer-name");
+                names.append('div')
+                        .attr("class", "composer-firstname")
                         .text(function(d) {
-                    return d.name;
-                }
-                );
+                    return d.firstname;
+                });
+                names.append('div')
+                        .attr("class", "composer-lastname")
+                        .text(function(d) {
+                    return d.lastname;
+                });
 
-                d3
-                        .selectAll("div")
-                        .selectAll(".composer")
-                        .append("div")
-                        .style("width", function(d){return 20 * Math.log(d.count);})
+                names.append("div")
+                        .style("width", function(d) {
+                    return 20 * Math.log(d.count);
+                })
                         .attr("class", "composer-count")
                         .text(function(d) {
                     return d.count;
@@ -64,7 +73,7 @@
                     return d.name;
                 })
                         .text(function(d) {
-                    return d.label
+                    return d.label;
                 });
             }
             //-----------------------------------------
@@ -82,7 +91,62 @@
             });
 
             socket.emit('require', {query: 'menu', message: 'menu'});
-            socket.emit('require', {query: 'artistsMoreThan5Tracks', message: 'composers'});
+            socket.emit('require', {query: 'composers-main', message: 'composers'});
+
+            var sortDataButton = document.getElementById('sortname');
+            var sortDataButtonState = false;
+            sortDataButton.onclick = function(event) {
+                if (sortDataButtonState)
+                    d3.selectAll('.composer').sort(function(a, b) {
+                        return b.lastname.localeCompare(a.lastname);
+                    });
+                else
+                    d3.selectAll('.composer').sort(function(a, b) {
+                        return a.lastname.localeCompare(b.lastname);
+                    });
+                sortDataButtonState = !sortDataButtonState;
+            };
+
+            var sortCountButton = document.getElementById('sortcount');
+            var sortCountButtonState = false;
+            sortCountButton.onclick = function(event) {
+                console.log('button', 'sortcount');
+                if (sortCountButtonState) {
+                    d3.selectAll('.composer').sort(function(a, b) {
+                        return a.count - b.count;
+                    });
+                } else {
+                    d3.selectAll('.composer').sort(function(a, b) {
+                        return b.count - a.count;
+                    });
+                    d3.selectAll("#sortCountButton").html("Z-A");
+                }
+                sortCountButtonState = !sortCountButtonState;
+            };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         </script>
     </body>
 </html>

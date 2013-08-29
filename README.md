@@ -69,3 +69,49 @@ At the end, edit the `titles.json` file to close the JSON delimiters. The result
 
     php ../src/phpfilter/index.php titles.filter | sed -f ../filter/filter.sed > titles.filter1
     (echo "{"; echo '"titles": [ '; sed -f ../filter/transform.sed titles.filter1 ; echo "{}"; echo "]"; echo "}") >  titles.json
+
+### Completing
+
+First extract the raw list of names:
+
+    awk -F'|' '{print $2}' titles.txt | sort -u > Composers.txt
+
+then use the LastFM API for crawling the `yearformed`:
+
+    cat ../data/Composers.txt |(while read line; do echo $line; node lastfm.js "$line"; done) | tee result
+
+The result is poor...
+
+    sed -n 's/.* \(1[6-9][0-9][0-9] .*\)/\1/p' result 
+        1841 Antonín Dvořák
+        1874 Arnold Schönberg
+        1913 Benjamin Britten
+        1835 Camille Saint-Saëns
+        1906 Dmitri Shostakovich
+        1843 Edvard Grieg
+        1809 Felix Mendelssohn
+        1811 Franz Liszt
+        1797 Franz Schubert
+        1810 Frédéric Chopin
+        1875 Fritz Kreisler
+        1845 Gabriel Fauré
+        1685 Georg Friedrich Händel
+        1874 Gustav Holst
+        1803 Hector Berlioz
+        1882 Igor Stravinsky
+        1945 Jacqueline du Pré
+        1865 Jean Sibelius
+        1833 Johannes Brahms
+        1825 Johann Strauss II
+        1918 Leonard Bernstein
+        1904 London Symphony Orchestra
+        1770 Ludwig van Beethoven
+        1781 Mauro Giuliani
+        1840 Pyotr Ilyich Tchaikovsky
+        1864 Richard Strauss
+        1810 Robert Schumann
+        1891 Sergei Prokofiev
+        1873 Sergei Rachmaninoff
+        1798 United States Marine Band
+
+
