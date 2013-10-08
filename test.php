@@ -1,3 +1,4 @@
 <?php
-echo "toto";
+  echo "toto";
+  echo "tutu";
 ?>
