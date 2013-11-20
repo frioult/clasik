@@ -65,7 +65,7 @@ A much better solution:
 
     awk -F'|' 'BEGIN{while ((getline < "tracksToBeRemoved.txt") > 0){tab[$1]=1}}{if($3 in tab)next;print}' titles.txt |wc -l
 
-At the end, edit the `titles.json` file to close the JSON delimiters. The result is [here](https://github.com/frioult/clasik/blob/master/data/titles-def.json).
+At the end, edit the `titles.json` file to close the JSON delimiters. The result is [here](https://raw.github.com/frioult/clasik/master/node/data/titles-def.json).
 
     php ../src/phpfilter/index.php titles.filter | sed -f ../filter/filter.sed > titles.filter1
     (echo "{"; echo '"titles": [ '; sed -f ../filter/transform.sed titles.filter1 ; echo "{}"; echo "]"; echo "}") >  titles.json
