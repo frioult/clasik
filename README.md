@@ -1,6 +1,8 @@
 A tentative for browsing the classical musique
 
-### Extracting the data from the postGresql database MusicBrainz is a pain. Better install the virtual machine. Launch it, connect to it with ssh -p 2222 vm@localhost (password: musicbrainz).
+### Extracting the data from the postGresql database MusicBrainz
+
+... is a pain. Better install the virtual machine. Launch it, connect to it with ssh -p 2222 vm@localhost (password: musicbrainz).
 then
 
     sudo su - musicbrainz
