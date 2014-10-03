@@ -1,6 +1,16 @@
 A tentative for browsing the classical musique
 
-### Extracting the data from the postGresql database MusicBrainz
+### Extracting the data from the postGresql database MusicBrainz is a pain. Better install the virtual machine. Launch it, connect to it with ssh -p 2222 vm@localhost (password: musicbrainz).
+then
+    sudo su - musicbrainz
+    cd musicbrainz-server/admin/
+    ./psql READWRITE
+    
+In PosGres:
+    \c musicbrainz
+
+Then you can query:
+
     select id as artistId, name, trackId, title 
     from musicbrainz.artist_name as names 
     inner join(
@@ -12,8 +22,8 @@ A tentative for browsing the classical musique
             inner join musicbrainz.aaa_titles as titles 
             on tracks.name = titles.id) titles
         on titles.credit = credits.id ) credits
-
     on names.id = credits.artist
+    
 ### Filter the russian names
 See https://github.com/frioult/clasik/blob/master/filter/filter-russ.sed.
 ### Main transformation with sed script
